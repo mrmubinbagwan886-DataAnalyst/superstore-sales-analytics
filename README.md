@@ -142,11 +142,11 @@ The dashboard (`Superstore_Sales_Performance_Dashboard.pbix`) has two pages, fil
 
 ### Page 1: Sales Overview
 
-![Sales Overview](images/Sales_Overview.png)
+![Sales Overview](https://raw.githubusercontent.com/mrmubinbagwan886-DataAnalyst/superstore-sales-analytics/main/images/Sales%20Overview.png)
 
 ### Page 2: Regional & Customer Deep Dive
 
-![Regional & Customer Deep Dive](images/Regional___Customer_Deep_Dive.png)
+![Regional & Customer Deep Dive](https://raw.githubusercontent.com/mrmubinbagwan886-DataAnalyst/superstore-sales-analytics/main/images/Regional%20%26%20Customer%20Deep%20Dive.png)
 
 ## ▶️ How to Run
 
