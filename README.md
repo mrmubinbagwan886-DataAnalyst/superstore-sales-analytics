@@ -141,12 +141,12 @@ The dashboard (`Superstore_Sales_Performance_Dashboard.pbix`) has two pages, fil
 - Top 5 cities and top 5 customers
 
 ### Page 1: Sales Overview
+
 ![Sales Overview](images/Sales_Overview.png)
 
 ### Page 2: Regional & Customer Deep Dive
-![Regional & Customer Deep Dive](images/Regional___Customer_Deep_Dive.png)
 
----
+![Regional & Customer Deep Dive](images/Regional___Customer_Deep_Dive.png)
 
 ## ▶️ How to Run
 
